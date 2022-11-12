@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700;900&display=swap');
+*{
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+#london-wrapper, #windsor-wrapper{
+    display: none;
+    height: 500px;
+}
+
+body{
+    color: rgb(0, 0, 0);
+    min-height: 100vh;
+   
+    background: linear-gradient(45deg, red, blue);
+      
+}
+
+h1{
+    color: aliceblue;
+}
+cite{
+    font-size: .8em;
+}
+.modal {
+    padding: 15px;
+    position:absolute;
+    z-index: 1000;
+    text-align: center;
+    max-width: 95%;
+    box-shadow:0px 0px 20px rgb(166, 220, 242);
+}
+.modal-content{
+    max-width: 800px;
+}
+.modal-content img{
+    max-width: 100%;
+}
+.modal-close{
+    margin: 10px 0;
+    padding: 8px 25px;
+    cursor: pointer;
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: rgb(93, 160, 187);
+}
