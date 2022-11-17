@@ -1,0 +1,51 @@
+[
+    {
+        "firstName": "Iron",
+        "lastName": "Man ",
+        "mainPower": "Suit",
+        "gender": "Male",
+        "superHeroName": "Tony Stark"
+    }, 
+    {
+        "firstName": "Spider",
+        "lastName": "Man ",
+        "mainPower": "Spider Power",
+        "gender": "Male",
+        "superHeroName": "Peter Parker"
+    },
+    {
+        "firstName": "Doctor",
+        "lastName": "Strange ",
+        "mainPower": "Control Time",
+        "gender": "Male",
+        "superHeroName": "Stephen Strange"
+    },
+    {
+        "firstName": "Wong",
+        "lastName": "Kil ",
+        "mainPower": " Power",
+        "gender": "Male",
+        "superHeroName": "Sorcerer Supreme"
+    }, 
+    {
+        "firstName": "Thor",
+        "lastName": "Odinson ",
+        "mainPower": " Hammer",
+        "gender": "Male",
+        "superHeroName": "Thor"
+    },
+    {
+        "firstName": "Captain",
+        "lastName": "America ",
+        "mainPower": " Strength",
+        "gender": "Male",
+        "superHeroName": "Steve Rogers"
+    },
+    {
+        "firstName": "Green",
+        "lastName": "Hulk ",
+        "mainPower": " Strength",
+        "gender": "Female",
+        "superHeroName": "Bruce"
+    }
+]
