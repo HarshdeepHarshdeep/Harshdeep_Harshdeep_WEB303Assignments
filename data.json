@@ -1,0 +1,58 @@
+[
+    {
+        "firstName": "Iron",
+        "lastName": "Man ",
+        "mainPower": "Suit",
+        "gender": "Male",
+        "superHeroName": "Tony Stark",
+        "DOB":"1/AUG/1968"
+    }, 
+    {
+        "firstName": "Spider",
+        "lastName": "Man ",
+        "mainPower": "Spider Power",
+        "gender": "Male",
+        "superHeroName": "Peter Parker",
+        "DOB":"10/AUG/1989"
+    },
+    {
+        "firstName": "Doctor",
+        "lastName": "Strange ",
+        "mainPower": "Control Time",
+        "gender": "Male",
+        "superHeroName": "Stephen Strange",
+        "DOB":"1/MAR/1966"
+    },
+    {
+        "firstName": "Wong",
+        "lastName": "Kil ",
+        "mainPower": " Power",
+        "gender": "Male",
+        "superHeroName": "Sorcerer Supreme",
+        "DOB":"15/AUG/1968"
+    }, 
+    {
+        "firstName": "Thor",
+        "lastName": "Odinson ",
+        "mainPower": " Hammer",
+        "gender": "Male",
+        "superHeroName": "Thor",
+        "DOB":"02/AUG/1600"
+    },
+    {
+        "firstName": "Captain",
+        "lastName": "America ",
+        "mainPower": " Strength",
+        "gender": "Male",
+        "superHeroName": "Steve Rogers",
+        "DOB":"1/OCT/1809"
+    },
+    {
+        "firstName": "Green",
+        "lastName": "Hulk ",
+        "mainPower": " Strength",
+        "gender": "Female",
+        "superHeroName": "Bruce",
+        "DOB":"20/AUG/1970"
+    }
+]
