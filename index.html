@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Registration form</title>
+<link href="css/style.css" rel="stylesheet">
+</head>
+<body>
+<form action="/register" method="POST" id="registerForm">
+<h1>Registration form</h1>      
+ <label for="username">Username: </label>
+        <input type="text" name="username" id="username">
+        <br>
+        <br>
+        <label for="password">Password: </label>
+        <input type="password" name="password" id="password">
+        <br>
+        <br>
+        <label for="password2">Confirm Password: </label>
+        <input type="password" name="password2" id="password2">
+        <br>
+        <br>
+        <input type="checkbox" id="terms" name="terms" value="agree">
+        <label for="terms">I accept the terms of service</label>
+<br>
+        <br>
+        <select name="country" id="country">
+
+        </select>
+
+        <input type="submit" name="submit" id="submit">
+    </form>
+
+    <h1 id="greetings"></h1>
+
+    <script type="text/javascript" src="js/countries.js"></script>
+    <script type="text/javascript" src="js/script.js"></script>
+</body>
+</html>
